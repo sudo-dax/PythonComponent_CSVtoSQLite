@@ -11,4 +11,4 @@ python3 CSVtoSQLite.py sslipblacklist.csv
 
 ```
 
-then it should great the feeds db in which you will have the data.
+then it should create the feeds db in which you will have the data.
